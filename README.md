@@ -1,9 +1,18 @@
 # DiscuzForSAE
 运行在SAE上的Discuz
+<<<<<<< HEAD
 采用目前官方源 Discuz!版本
 =======
 采用目前官方源 Discuz版本
 
+=======
+<<<<<<< HEAD
+采用目前官方源 Discuz!版本
+=======
+采用目前官方源 Discuz版本
+>>>>>>> 2cc0fbdbe578e804965b87723b888fb41dc16c22
+- 
+>>>>>>> 35a39656d95e7ad846bc5bf8e1c38f6e6d43de82
 - 更新至Discuz! X3.3版本
 - 修复SAE本地不可写导致不能上传文件
 - 临时缓存文件采用Storage与Memcached技术
@@ -25,4 +34,12 @@
 
 - 若在使用过程中遇到问题请与QQ601241606联系
 - 如果您有好的意见与建议也可以与我反馈
+<<<<<<< HEAD
 - 感谢大家的支持！Thanos.
+=======
+<<<<<<< HEAD
+- 感谢大家的支持！Thanos.
+=======
+- 感谢大家的支持！Thanos.
+>>>>>>> 2cc0fbdbe578e804965b87723b888fb41dc16c22
+>>>>>>> 35a39656d95e7ad846bc5bf8e1c38f6e6d43de82
